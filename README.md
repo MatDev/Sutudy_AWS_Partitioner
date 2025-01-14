@@ -1,1 +1,0 @@
-# Sutudy_AWS_Partitioner
